@@ -1,0 +1,16 @@
+{
+  "name": "mongo-provisioner",
+  "version": "0.0.0",
+  "description": "A tool for provisioning new Mongo databases with unique DB owners and rights provisioned. Useful in a PaaS environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "database",
+    "provisioning"
+  ],
+  "author": "Paul Vencill",
+  "license": "MIT"
+}
