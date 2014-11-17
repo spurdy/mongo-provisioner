@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "A tool for provisioning new Mongo databases with unique DB owners and rights provisioned. Useful in a PaaS environment.",
   "main": "index.js",
+  "repositories":{
+    "git" : "git@github.com:pvencill/mongo-provisioner.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
